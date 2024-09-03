@@ -509,9 +509,7 @@ body{
     }
 }
 @media (max-width:480px) {
-    *{
-        /* border: 1px solid red; */
-    }
+    
     .maincontainer{
         height: 100vh;
     }
